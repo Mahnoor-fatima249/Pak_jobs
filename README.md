@@ -23,4 +23,4 @@ PakJob Professional Builder is an AI-powered career assistant designed for stude
 4. **Generate & Download** your results instantly!
 
 ## 🎓 About
-Developed as a specialized tool for students (BSIT) to bridge the gap between academic profile and industrial requirements.
+Developed by @Mahnoor Fatima .
